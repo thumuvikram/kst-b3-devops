@@ -1,0 +1,3 @@
+Here, we have used a for..else statement to check if num is prime.
+
+It works on the logic that the else clause of the for loop runs if and only if we don't break out the for loop. That condition is met only when no factors are found, which means that the given number is prime.
